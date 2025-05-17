@@ -1,7 +1,7 @@
 # Cyjiix Portfolio
 
-Here's my Project [View here](https://cyjiix29.github.io/My-Portfolio/)
-
+## Here's my Project [View here](https://cyjiix29.github.io/My-Portfolio/)
+## About me: [View here](
 
 ## How to Reach me:
 - Gmail Account:[cangeles24-0146@cca.edu.ph](cangeles24-0146@cca.edu.ph)
