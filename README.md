@@ -1,5 +1,5 @@
 # Cyjiix Portfolio
-<img src="cy.jpg" alt="Alt Text" Width="200" heigth="100">
+<img src="cy.png" alt="Alt Text" Width="900" heigth="800">
 
 
 #### Here's my Project [View here](https://cyjiix29.github.io/My-Portfolio/)
