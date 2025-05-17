@@ -4,7 +4,7 @@
 #### About me: [View here](https://cyjiix29.github.io/My-Profile/)
 
 ## How to Reach me:
-- Gmail Account:[cangeles24-0146@cca.edu.ph](cangeles24-0146@cca.edu.ph)
+- Gmail Account:**cangeles24-0146@cca.edu.ph**
 
 ## Connect With Me
 <p align="center">
