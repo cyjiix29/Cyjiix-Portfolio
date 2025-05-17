@@ -1,4 +1,6 @@
 # Cyjiix Portfolio
+<img src="Cy.jpg" alt="Alt Text" Width="200" heigth="100">
+
 
 #### Here's my Project [View here](https://cyjiix29.github.io/My-Portfolio/)
 #### About me: [View here](https://cyjiix29.github.io/My-Profile/)
